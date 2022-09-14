@@ -9,3 +9,5 @@
 9.stack algorithm
 10.insertion sort
 11.array operations
+12.quick sort
+13.merge sort
