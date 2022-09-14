@@ -12,3 +12,4 @@
 12.quick sort
 13.merge sort
 14.queue-enqueue,dequeue
+15.Hashing-using linear probing
