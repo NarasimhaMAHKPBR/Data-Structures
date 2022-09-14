@@ -8,3 +8,4 @@
 8.binary searching. 
 9.stack algorithm
 10.insertion sort
+11.array operations
